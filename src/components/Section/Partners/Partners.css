@@ -1,0 +1,30 @@
+.main_item {
+  background-color: #4d4c4c;
+}
+.head_title {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+  color: #fff;
+  height: 73px;
+  border-radius: nullpx;
+  margin-left: 100px;
+  margin-bottom: 40px;
+  padding-top: 60px;
+}
+.box_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin-left: 120px;
+  gap: 30px;
+}
+.box_box img {
+  width: 145px;
+  margin-top: 100px;
+  padding-bottom: 150px;
+}
+.box_box img:hover {
+  background: transparent;
+}

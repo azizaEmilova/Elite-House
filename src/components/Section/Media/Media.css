@@ -1,0 +1,48 @@
+.fisrt__box {
+  width: 320px;
+  background-color: rgba(91, 91, 91, 1);
+}
+.media_img {
+  width: 320px;
+}
+.titles {
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #fff;
+  border-radius: nullpx;
+  margin: 5px 10px;
+}
+.article {
+  font-family: "Montserrat", sans-serif;
+  font-size: 13px;
+  color: #fff;
+  margin: 10px 10px;
+  line-height: 2em;
+  padding-bottom: 35px;
+}
+.middle_box {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 130px;
+  width: 70%;
+  gap: 20px;
+}
+.arrows {
+  position: relative;
+}
+.rightt {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: -260px;
+  right: 1170px;
+}
+.leftt {
+  width: 55px;
+  height: 55px;
+  position: absolute;
+  top: -250px;
+  right: 40px;
+}

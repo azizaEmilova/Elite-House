@@ -1,0 +1,71 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.AboutUs {
+  height: 500px;
+  background-color: #4d4c4c;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.firstColumn {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  margin-left: 90px;
+  gap: 20px;
+}
+
+.titleAbout {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+  color: #fff;
+  height: 73px;
+  width: 197px;
+  left: 146px;
+  top: 954px;
+  border-radius: nullpx;
+}
+
+.firstColumn p {
+  font-family: "Montserrat", sans-serif;
+  margin-top: 15px;
+  height: 285px;
+  width: 449px;
+  left: 146px;
+  top: 1067px;
+  border-radius: nullpx;
+  color: #fff;
+}
+
+.secondColumn {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-top: 70px;
+}
+
+.thirdColumn {
+  width: 20%;
+  margin-right: 80px;
+}
+
+.thirdColumn h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 60px;
+  font-weight: 800;
+  color: #fff;
+  height: 73px;
+  width: 197px;
+  left: 146px;
+  top: 954px;
+  border-radius: nullpx;
+  margin-top: 60px;
+}
+.thirdColumn h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-size: 22px;
+  font-weight: 500;
+}
